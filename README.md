@@ -1,6 +1,6 @@
 # IT Help Desk Lab Using osTicket
 
-A hands-on help desk simulation built by deploying osTicket on Ubuntu Server in VirtualBox. Configured a full ticketing environment from scratch, created realistic IT support scenarios, and worked each ticket through a complete lifecycle — intake, triage, documentation, and resolution.
+A hands-on help desk simulation built by deploying osTicket on Ubuntu Server in VirtualBox. Configured a full ticketing environment from scratch, created realistic IT support scenarios, and worked each ticket through a complete lifecycle: intake, triage, documentation, and resolution.
 
 ---
 
